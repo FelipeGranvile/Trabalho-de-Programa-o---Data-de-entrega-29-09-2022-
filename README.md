@@ -5,7 +5,7 @@ FELIPE GRANVILE - 837662
 Trabalho de programação para correçao de 24 exercicios praticos com a data de entrega para 29/09/2022
 
 
-Os exercicios estão dentro da pasta 22 09 2022 (data a qual comecei os exercicios)
+Os exercicios estão dentro da pasta Trabalho
 
 
 
